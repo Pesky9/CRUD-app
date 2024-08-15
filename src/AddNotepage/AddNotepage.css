@@ -1,0 +1,43 @@
+.Add_Section {
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.Note_Inputs {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.Note_Inputs input {
+  padding: 8px 25px;
+  font-size: 20px;
+}
+
+.Note_Inputs textarea {
+  padding: 8px 25px;
+  height: 50px;
+  resize: none;
+  font-size: 16px;
+}
+
+.Note_Add {
+  width: auto;
+  height: auto;
+  margin: auto;
+  display: flex;
+  margin-top: 30px;
+}
+
+.Note_Add button {
+  margin: auto;
+  cursor: pointer;
+  padding: 5px 18px;
+  color: #fff;
+  background-color: black;
+  border-radius: 20px;
+  border: 1px solid white;
+  font-size: 20px;
+}
