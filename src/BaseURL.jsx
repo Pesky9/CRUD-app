@@ -1,1 +1,1 @@
-export const BaseURL = "https://crud-api-pink.vercel.app";
+export const BaseURL = "https://crud-api-zeta-wheat.vercel.app";
