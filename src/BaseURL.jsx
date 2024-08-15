@@ -1,1 +1,1 @@
-export const BaseURL = "http://localhost:200";
+export const BaseURL = "https://crud-api-pink.vercel.app";
